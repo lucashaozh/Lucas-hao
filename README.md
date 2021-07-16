@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Lucas
-- 🔭 I’m currently working on The Chinese University of Hong Kong.
+- 🔭 I’m currently studying at The Chinese University of Hong Kong. A Year 3 CS student.
 - 🌱 I’m currently learning Android, Nginx and PostgreSQL.
 - 💬 I'm a beginner at programming. Hope to develop more skills in the future!
 - 📫 How to reach me: 
