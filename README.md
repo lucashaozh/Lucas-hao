@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 My name is Lucas ZHANG (Chinese name 张胜皓)
 - 🔭 I’m currently studying at The Chinese University of Hong Kong. A final year CS student.
 - 🌱 I toke the Tencent Game Developer Internship at Shenzhen during May 2022 - August 2022.
